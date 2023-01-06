@@ -27,6 +27,11 @@ ol[role="list"] {
   list-style: none;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
 /* Default list style is removed */
 li {
   list-style: none;
